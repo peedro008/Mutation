@@ -1,5 +1,5 @@
 require('dotenv').config();
-const {postgre}=require("../env") 
+//const {postgre}=require("../env") 
 const fs = require('fs');
 const path = require('path');
 const { Sequelize } = require('sequelize');
